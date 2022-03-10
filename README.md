@@ -1,5 +1,5 @@
 # SQL-ODEV-5
-Patika.dev > SQL > Ödev5
+Patika.dev > SQL > SQL Temelleri II > Ödev5
 
 ## 1. film tablosunda bulunan ve film ismi (title) 'n' karakteri ile biten en uzun (length) 5 filmi sıralayınız.
 
